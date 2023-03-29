@@ -17,5 +17,15 @@ Apriori 알고리즘은 데이터 마이닝 분야에서 사용되는 알고리�
 ## Run
 - `python apriori.py min_sup input.txt output.txt` 의 형태로 실행한다.
 - ex. `python apriori.py 5 input.txt output.txt`
+### input: 
+18	2	4	5	1
+1	11	15	2	7	16
+2	1	16
+15	7	6	11	18	9
+11	2	13	4
+### output
+1066 lines 
 
 ## Code Description
+
+
